@@ -1,0 +1,2 @@
+Candidate ID         Applied date         Paid Rupees
+1INS0,               12 Sept               1200

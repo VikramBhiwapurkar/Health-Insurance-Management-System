@@ -1,0 +1,3 @@
+Candidate ID               Full_Name                          Aadhar_Number         Age/Gender      Mobile_Number
+1INS0,               Vikram Ananta Bhiwapurkar               1234 2345 3456          19/male        9822212345
+
